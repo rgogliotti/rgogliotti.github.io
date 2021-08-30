@@ -1,1 +1,1 @@
-Check out the minimal portfolio at https://rgogliotti.github.io
+Check out my portfolio at https://rgogliotti.github.io
