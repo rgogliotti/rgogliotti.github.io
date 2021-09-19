@@ -5,8 +5,6 @@
 ![image](https://user-images.githubusercontent.com/42241682/133932987-6f5e5c8d-de78-480d-af5e-443d4fb1ea01.png)
 The goal of this project was to use supervised learning techniques to diagnose malignant and benign tumors from fine needle aspiration samples of breast tissue masses. Multiple techniques were used to identify malignant tumors and minimize missclassifications.The Kth Nearest Neighbor technique was found to best classify the data with 95.7% accuracy. A video was made to document the results for an audience of non-technical stakeholders.
 
-![image](https://user-images.githubusercontent.com/42241682/133935658-ce2929cb-291e-49bc-9bfb-47906d3e251a.png)
-
 A project completed as part of my Notre Dame MS Data Science program (https://datascience.nd.edu/programs/)
 keywords: KNN, random forest, bagging, bootstap, decision tree
 <center><img src="images/Tumorsummay2.JPG"/></center>
