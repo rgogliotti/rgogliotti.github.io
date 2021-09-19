@@ -1,18 +1,13 @@
 # Portfolio
 ---
-## Natural Language Processing
+## Classification
+### Supervised learning techniques for the prediction of malignant and benign tumors from fine needle aspirations of breast tissue masses
+![image](https://user-images.githubusercontent.com/42241682/133932987-6f5e5c8d-de78-480d-af5e-443d4fb1ea01.png)
 
-### CS224n: Natural Language Processing with Deep Learning
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+A project completed as part of my Notre Dame MS Data Science program (https://datascience.nd.edu/programs/)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/Tumorsummary.jpeg"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
