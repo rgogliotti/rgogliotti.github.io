@@ -7,7 +7,7 @@
 
 A project completed as part of my Notre Dame MS Data Science program (https://datascience.nd.edu/programs/)
 
-<center><img src="images/Tumorsummary.JPEG"/></center>
+<center><img src="images/Tumorsummary.jpg"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
