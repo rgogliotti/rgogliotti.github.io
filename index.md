@@ -2,7 +2,7 @@
 ---
 ## Classification
 ### Supervised learning techniques for the prediction of malignant and benign tumors of breast tissue masses
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](add link)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rgogliotti/Tumor-prediction)
 The goal of this project was to use supervised learning techniques to diagnose malignant and benign tumors from fine needle aspiration samples of breast tissue masses. Multiple techniques were used to identify malignant tumors and minimize missclassifications.The Kth Nearest Neighbor technique was found to best classify the data with 95.7% accuracy. A video was made to document the results for an audience of non-technical stakeholders.
 
 A project completed as part of my Notre Dame MS Data Science program (https://datascience.nd.edu/programs/)
