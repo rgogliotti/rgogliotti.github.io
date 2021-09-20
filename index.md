@@ -1,9 +1,24 @@
 # Portfolio
 ---
 ## Classification
+### Predicting Extended Absence Time
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rgogliotti/Tumor-prediction)
+
+<div style="text-align: justify"> Unplanned extended workplace absences can have a detrimental impact on a companies ability to do buisness. This project set out to build a classfication model that would predict when an upplanned absence would last longer than 1 day (8 hours). Predicting when an absence would be extended has the potential to help planning for temorary staff and aid in human resouce management. For this project KNN, glm, decision trees, random forests and SVM models were built, tested and compared. The best performing model was then optmized on sensitivity using SMOTE techniques to balance the data and Monte Carlo simulations to cross-validate. The original model produced a ssensitivity of 35% while the optimized model increased sensitivity to 68%.
+</div>
+
+A project completed as part of my Notre Dame MS Data Science program (https://datascience.nd.edu/programs/)
+keywords: KNN, SMOTE, imbalanced data, Monte Carlo, optimization 
+
+<center><img src="images/Absenteeismmodelcomp.JPG"/></center>
+
+
+
+---
 ### Supervised learning techniques for the prediction of malignant and benign tumors of breast tissue masses
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rgogliotti/Tumor-prediction)
-The goal of this project was to use supervised learning techniques to diagnose malignant and benign tumors from fine needle aspiration samples of breast tissue masses. Multiple techniques were used to identify malignant tumors and minimize missclassifications.The Kth Nearest Neighbor technique was found to best classify the data with 95.7% accuracy. A video was made to document the results for an audience of non-technical stakeholders.
+<div style="text-align: justify"> The goal of this project was to use supervised learning techniques to diagnose malignant and benign tumors from fine needle aspiration samples of breast tissue masses. Multiple techniques were used to identify malignant tumors and minimize missclassifications.The Kth Nearest Neighbor technique was found to best classify the data with 95.7% accuracy. A video was made to document the results for an audience of non-technical stakeholders.</div>
 
 A project completed as part of my Notre Dame MS Data Science program (https://datascience.nd.edu/programs/)
 keywords: KNN, random forest, bagging, bootstap, decision tree
