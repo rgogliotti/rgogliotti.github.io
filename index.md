@@ -11,7 +11,7 @@ A project completed as part of my Notre Dame MS Data Science program (https://da
 </div>
 keywords: Random Forest, SMOTE, imbalanced data, optimization 
 
-<center><img src="images/wordcloud.JPG"/></center>
+<center><img src="images/Wordcloud.JPG"/></center>
 
 ---
 ### Predicting Extended Absence Time
