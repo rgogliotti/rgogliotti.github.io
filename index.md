@@ -1,12 +1,13 @@
 # Portfolio
 ---
 
-### Predicting Extended Absence Time
+### Kiva Loan Funding
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rgogliotti/Kiva)
 
 <div style="text-align: justify">Kiva is an online platform to extend financial services to poor and financially excluded people around the world through the use of crowdsourced loans. Kiva claims that its lenders have provided over $1 billion dollars in loans to over 2 million people across the world many of whom might have been unable to find loans otherwise. Although most loans are funded, roughly 7% of loans are not fully funded on the platform. In order to fund as many people as possible, it is important to be able to predict which loans will be funded and which loans that will not be fully funded. Overall, I was able to produce a model that predicts if a loan will not be fully funded with an accuracy of  85.6% and sensitivity of 72.9%. While accuracy could be improved it came at a cost of sensitivity. This trade-off was determined to be acceptable because the main objective on the model was to better classify loans that will not be fully funded. With this information, loans applications that are likely not to be funded can be targeted and updated before they ever make it onto the platform. 
 </div>
+
 A project completed as part of my Notre Dame MS Data Science program (https://datascience.nd.edu/programs/)
 </div>
 keywords: Random Forest, SMOTE, imbalanced data, optimization 
