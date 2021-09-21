@@ -1,6 +1,19 @@
 # Portfolio
 ---
-## Classification
+
+### Predicting Extended Absence Time
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rgogliotti/Kiva)
+
+<div style="text-align: justify">Kiva is an online platform to extend financial services to poor and financially excluded people around the world through the use of crowdsourced loans. Kiva claims that its lenders have provided over $1 billion dollars in loans to over 2 million people across the world many of whom might have been unable to find loans otherwise. Although most loans are funded, roughly 7% of loans are not fully funded on the platform. In order to fund as many people as possible, it is important to be able to predict which loans will be funded and which loans that will not be fully funded. Overall, I was able to produce a model that predicts if a loan will not be fully funded with an accuracy of  85.6% and sensitivity of 72.9%. While accuracy could be improved it came at a cost of sensitivity. This trade-off was determined to be acceptable because the main objective on the model was to better classify loans that will not be fully funded. With this information, loans applications that are likely not to be funded can be targeted and updated before they ever make it onto the platform. 
+</div>
+A project completed as part of my Notre Dame MS Data Science program (https://datascience.nd.edu/programs/)
+</div>
+keywords: Random Forest, SMOTE, imbalanced data, optimization 
+
+<center><img src="images/wordcloud.JPG"/></center>
+
+---
 ### Predicting Extended Absence Time
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rgogliotti/Absenteeism)
@@ -9,6 +22,7 @@
 </div>
 
 A project completed as part of my Notre Dame MS Data Science program (https://datascience.nd.edu/programs/)
+</div>
 keywords: KNN, SMOTE, imbalanced data, Monte Carlo, optimization 
 
 <center><img src="images/Absenteeismmodelcomp.JPG"/></center>
@@ -92,27 +106,6 @@ keywords: KNN, random forest, bagging, bootstap, decision tree
 <br>
 
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
-
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
-
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
-<br>
-<center><img src="images/bac2018.JPG"/></center>
-<br>
 
 ---
-## Filmed by me
-
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
-<br>
-
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
-
----
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2021 Rose Gogliotti. Powered by Jekyll and the Minimal Theme.</center>
