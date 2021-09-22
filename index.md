@@ -1,7 +1,7 @@
 # Portfolio
 ---
 ### South Bend census demographics Shiny App
-[![View in shinyappsio](https://img.shields.io/badge/GitHub-View_on_GitHub-9cf?logo=r)]( https://gogliotti.shinyapps.io/FinalProject_DV/)
+[![View in shinyappsio](https://img.shields.io/badge/Shiny-View_on_app.io-9cf?logo=r)]( https://gogliotti.shinyapps.io/FinalProject_DV/)
 
 <div style="text-align: justify">The goal of this project was to use US Census data to develop an App that could be used by South Bend City Officials to easily access census information. This was a group project where each individual contributed a "Tab" to the App. Only my "Tab" is linked. Code for the full App is availible in the Git link.
 </div>
