@@ -1,5 +1,17 @@
 # Portfolio
 ---
+### Diabetes GLM 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rgogliotti/Diabetes)
+
+<div style="text-align: justify">The goal  of this project was to build a logistic regression model to explain what factors are related to a positive diabetes diagnosis.
+</div>
+<center><img src="images/DiabetesGLM.JPG"/></center>
+
+</div>
+keywords: GLM, Logistic Regression, Spline, StepAIC
+
+---
+
 ### South Bend Census Demographics Shiny App
 [![View in shinyappsio](https://img.shields.io/badge/Shiny-View_on_app.io-9cf?logo=r)]( https://gogliotti.shinyapps.io/FinalProject_DV/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rgogliotti/SouthBendApp)
