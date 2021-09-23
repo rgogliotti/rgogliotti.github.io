@@ -8,7 +8,12 @@
 </div>
 
 <center><img src="images/SBCensusShiny.JPG"/></center>
+
+</div>
+keywords: Shiny, interactive, dashboard, reactive
+
 ---
+
 ### Kiva Loan Funding
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rgogliotti/Kiva)
