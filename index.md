@@ -7,7 +7,7 @@
 <div style="text-align: justify">The goal of this project was to use US Census data to develop an App that could be used by South Bend City Officials to easily access census information. This was a group project where each individual contributed a Tab to the App. Only my Tab is linked. Code for the full App and my contribution is availible in the Git link.
 </div>
 
-<center><img src="images/SBCensus.JPG"/></center>
+<center><img src="images/SBCensusShiny.JPG"/></center>
 ---
 ### Kiva Loan Funding
 
