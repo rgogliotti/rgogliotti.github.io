@@ -21,7 +21,7 @@ keywords: GLM, Logistic Regression, Spline, StepAIC
 
 <center><img src="images/SBCensusShiny.JPG"/></center>
 
-</div>
+<div>
 keywords: Shiny, interactive, dashboard, reactive
 </div>
 ---
@@ -34,7 +34,7 @@ keywords: Shiny, interactive, dashboard, reactive
 </div>
 
 <center><img src="images/Wordcloud.JPG"/></center>
-</div>
+<div>
 keywords: Random Forest, SMOTE, imbalanced data, optimization 
 </div>
 ---
@@ -48,7 +48,7 @@ keywords: Random Forest, SMOTE, imbalanced data, optimization
 
 <center><img src="images/Absenteeismmodelcomp.JPG"/></center>
 
-</div>
+<div>
 keywords: KNN, SMOTE, imbalanced data, Monte Carlo, optimization 
 </div>
 
@@ -60,7 +60,7 @@ keywords: KNN, SMOTE, imbalanced data, Monte Carlo, optimization
 
 <center><img src="images/Tumorsummay2.JPG"/></center>
 
-</div>
+<div>
 keywords: KNN, random forest, bagging, bootstap, decision tree
 </div>
 
