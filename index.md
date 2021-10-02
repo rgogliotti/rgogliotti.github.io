@@ -9,7 +9,7 @@
 
 </div>
 keywords: GLM, Logistic Regression, Spline, StepAIC
-</div>
+
 ---
 
 ## South Bend Census Demographics Shiny App
@@ -19,7 +19,7 @@ keywords: GLM, Logistic Regression, Spline, StepAIC
 <div style="text-align: justify">The goal of this project was to use US Census data to develop an App that could be used by South Bend City Officials to easily access census information. This was a group project where each individual contributed a Tab to the App. Only my contribution is linked. 
 </div>
 
-<center><img src="images/Media1.mp4"/></center>
+<center><img src="images/SBCensusShiny.JPG"/></center>
 
 </div>
 keywords: Shiny, interactive, dashboard, reactive
