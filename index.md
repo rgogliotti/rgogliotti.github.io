@@ -7,9 +7,9 @@
 </div>
 <center><img src="images/DiabetesGLM.JPG"/></center>
 
-</div>
+<div>
 keywords: GLM, Logistic Regression, Spline, StepAIC
-
+</div>
 ---
 
 ## South Bend Census Demographics Shiny App
